@@ -13,8 +13,10 @@
 | 名称 | 特点 | 优势 | 网址 |
 |------|------|------|------|
 | **Nyaa** | 全球最大的动漫BT资源站 | 你可以找到几乎所有动漫的**无修版、4K重制版、或者是BD（蓝光）原盘**。搜索时加上关键词"Raw"或"NC"（No Credits，指无文字的片头片尾），画质高到爆炸。 | [nyaa.si](https://nyaa.si) |
-| **AnimeRaw** | 专门为剪辑师服务的网站 | 它把很多热门动漫已经切好了无字幕片段，甚至有些已经做了补帧处理（60帧），非常适合新手直接下载。 | [en.animestash.net](https://en.animestash.net) / [animeraw.wmfee.jp](http://animeraw.wmfee.jp) |
-| **B站/YouTube** | 搜索关键词是门技术 | 在B站搜索**"无字幕素材"、"NCOP/NCED"**（无文字片头/片尾）。YouTube搜索"Anime Green Screen"（动漫绿幕）或"Anime Scenepack"。 | [bilibili.com](https://bilibili.com) / [youtube.com](https://youtube.com) |
+| **AnimeStash** | 专门为剪辑师服务的网站 | 它把很多热门动漫已经切好了无字幕片段，甚至有些已经做了补帧处理（60帧），非常适合新手直接下载。 | [en.animestash.net](https://en.animestash.net) |
+| **AnimeRaw** | 专门为剪辑师服务的网站 | 提供无字幕动漫素材 | [animeraw.wmfee.jp](http://animeraw.wmfee.jp) |
+| **B站** | 国内最大的动漫社区 | 搜索**"无字幕素材"、"NCOP/NCED"**（无文字片头/片尾） | [bilibili.com](https://bilibili.com) |
+| **YouTube** | 全球视频平台 | 搜索"Anime Green Screen"（动漫绿幕）或"Anime Scenepack" | [youtube.com](https://youtube.com) |
 
 ---
 
@@ -25,7 +27,8 @@
 | 名称 | 特点 | 优势 | 网址 |
 |------|------|------|------|
 | **Pixiv** | 二次元画作的源头 | 这里的图质量最高，风格最全。建议搜索时用**日文标签**，出来的图会更地道。 | [pixiv.net](https://pixiv.net) |
-| **Konachan / Danbooru** | 壁纸级的二次元图库 | 标签（Tag）系统极其强大，你可以通过搜索"头发颜色、瞳色、服装、特定的画师"来精准找图，且分辨率极高。 | [konachan.com](https://konachan.com) |
+| **Konachan** | 壁纸级的二次元图库 | 标签（Tag）系统极其强大，你可以通过搜索"头发颜色、瞳色、服装、特定的画师"来精准找图，且分辨率极高。 | [konachan.com](https://konachan.com) |
+| **Danbooru** | 壁纸级的二次元图库 | 强大的标签系统，分辨率极高 | [danbooru.donmai.us](https://danbooru.donmai.us) |
 | **Zerochan** | 非常干净的动漫图库，分类非常清晰 | 界面简洁，分类清晰，便于快速查找 | [zerochan.net](https://zerochan.net) |
 
 ---
